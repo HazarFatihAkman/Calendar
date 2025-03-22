@@ -1,5 +1,9 @@
 # Calendar
-Console Calendar app written in C
+Console Calendar app written in C.
+
+I created my own algorithm to create date without time.h.
+
+It doesn't give you current date but you can create any date of calendar daily(it gives you what's the day of week), monthly or yearly.
 
 # Output
 ![Screenshot 2025-03-22 at 12 05 53 am](https://github.com/user-attachments/assets/b948284d-0fba-483b-8ca8-3596f0cb6d2e)
