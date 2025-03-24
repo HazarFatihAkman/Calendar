@@ -46,7 +46,6 @@ int main(void) {
             scanf("%d", &year_nbr);
             Date*** year = create_year(year_nbr);
             for (int i = 0; i < 12; i++) {
-                printf("[%d]\n", i + 1);
                 Date** month = year[i];
                 print_month(month);
 
